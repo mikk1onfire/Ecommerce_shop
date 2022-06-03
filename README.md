@@ -5,7 +5,7 @@ Big full responsive Ecommerce Application using React | Sanity CMS | Next.js
 [Visit site](https://ecommerce-shop-xi.vercel.app/)
 
 ![unknown (1)](https://cdn.discordapp.com/attachments/503642512217341954/982352006188531782/unknown.png)
-
+https://cdn.discordapp.com/attachments/503642512217341954/982352086874329128/unknown.png
 ## Tools used in this application:
 
 **Main:**
