@@ -1,4 +1,4 @@
-Big full responsive Ecommerce Application using React | Sanity CMS | Next.js
+**Big full responsive Ecommerce Application using React | Sanity CMS | Next.js**
 
 *Sanity provides the ability to store products on an easily managed database and Stripe makes it easy to receive payments and track their status on their website.*
 
